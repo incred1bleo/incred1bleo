@@ -1,5 +1,13 @@
 ## Hi there 👋
+I am a junior data analyst currently pursuing a degree in Managerial Informatics. My expertise lies in collecting, processing, and visualizing data to support informed decision-making and drive business optimization. I have a strong foundation in data manipulation and statistical analysis, enabling me to uncover actionable insights from complex datasets.
 
+Through academic projects and hands-on experience, I have developed proficiency in Python, SQL, and essential data analysis libraries such as Pandas, NumPy, and Matplotlib. I am skilled in cleaning and transforming data, creating dashboards, and automating repetitive tasks to improve workflow efficiency.
+
+I continuously work on enhancing my skills in statistical methods and data reporting to provide clear and accurate insights that aid operational and strategic decisions. My goal is to apply analytical techniques to improve business processes and outcomes.
+
+On this GitHub, I share projects, scripts, and case studies related to data analysis and visualization. This platform serves as a portfolio to showcase my technical skills, problem-solving approach, and ability to work with diverse data sets.
+
+I am motivated by the challenge of turning raw data into meaningful stories that drive growth and innovation. I am eager to collaborate, learn from others, and contribute to impactful data-driven projects.
 <!--
 **incred1bleo/incred1bleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
