@@ -16,8 +16,6 @@
 
 ## 📂 Projects  
 - 🔹 **Boston Bike System Analysis** → Power BI dashboard analyzing bike usage & weather impact  
-- 🔹 **Google Data Analytics Capstone** → Data cleaning, SQL queries & visualization of business case  
-- 🔹 **KFC Operations Dashboard (Demo)** → (in progress) analyzing waste %, sales, and KPIs  
 
 ---
 
@@ -30,7 +28,7 @@
 
 ## 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/oleksandr-dikun/)  
-- Email: (сюда можешь поставить свой профессиональный e-mail)  
+- Email: (alexdikun07@gmail.com)  
 
 ---
 ⭐ Always open to collaboration on data projects and learning new tools!  
