@@ -6,10 +6,10 @@
 ---
 
 ## 🔧 Skills & Tools  
-- **Data Analysis & Visualization**: Power BI, Excel, DAX, Python (Pandas, Matplotlib, Seaborn, NumPy)  
+- **Data Analysis & Visualization**: Power BI, Excel, DAX, Tableau Python (Pandas, Matplotlib, Seaborn, NumPy)  
 - **Databases**: SQL, Relational Databases, Power Query, PostgreSQL, My SQL Server   
-- **Business Intelligence**: KPI dashboards, reporting, process optimization  
-- **Other**: Analytical thinking, problem solving, teamwork, attention to detail 
+- **Business Intelligence**: KPI dashboards, Data Modeling, ETL / Data Transformation, Business Reporting
+- **Other**: Attention to detail, analytical thinking, problem solving, teamwork, Data-Driven Decision Making
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 📫 Let’s Connect  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-dikun/) 
-- [![Email](https://img.shields.io/badge/Email-alexdikun07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdikun07@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-alexdikun07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 ---
 ⭐  *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
