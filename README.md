@@ -6,10 +6,10 @@
 ---
 
 ## 🔧 Skills & Tools  
-- **Data Analysis & Visualization**: Power BI, Excel, Python (Pandas, Matplotlib)  
-- **Databases**: SQL, Relational Databases, Power Query  
+- **Data Analysis & Visualization**: Power BI, Excel, DAX, Python (Pandas, Matplotlib, Seaborn, NumPy)  
+- **Databases**: SQL, Relational Databases, Power Query, PostgreSQL, My SQL Server   
 - **Business Intelligence**: KPI dashboards, reporting, process optimization  
-- **Other**: Analytical thinking, problem solving, teamwork  
+- **Other**: Analytical thinking, problem solving, teamwork, attention to detail 
 
 ---
 
