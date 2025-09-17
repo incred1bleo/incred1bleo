@@ -37,7 +37,7 @@
 
 ## 📫 Let’s Connect  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-dikun/) 
-- [![Email](https://img.shields.io/badge/Email-alexdikun07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+- [![Email](https://img.shields.io/badge/Email-alexdikun07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdikun07@gmail.com)
 
 ---
 ⭐  *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
